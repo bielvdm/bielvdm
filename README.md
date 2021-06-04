@@ -2,4 +2,6 @@
 
 ### Eu sou um estudante DEV, atualmente cursando o curso técnico da Escola SENAI de Informática de Desenvolvimento de Sistemas.
 
-<img src="https://user-images.githubusercontent.com/72565820/120825816-2680a800-c530-11eb-8adb-b13349f01a1c.png" width="48">
+###Me contate:
+
+ <a href="gabrielvdm2010@gmail.com"><img src="https://user-images.githubusercontent.com/72565820/120825816-2680a800-c530-11eb-8adb-b13349f01a1c.png" width="35px"></a>
