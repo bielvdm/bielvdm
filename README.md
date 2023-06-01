@@ -1,4 +1,4 @@
-## Olá 👋
+## Hey | Olá | Hola 👋
 
 ### Eu sou um estudante DEV, formado em Desenvolvimento de Sistemas pela Escola SENAI de Informática e cursando Análise e Desenvolvimento de Sistemas na FIAP.
 <div>
