@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/bielvdm">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bielvdm&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvdm&layout=compact&langs_count=6&theme=prussian"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bielvdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvdm&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
   #### Contact me
