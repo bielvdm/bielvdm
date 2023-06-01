@@ -6,6 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bielvdm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielvdm&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+  
 ### Me contate:
 
 <a href="https://www.linkedin.com/in/gabriel-viana-348b9328/"><img src="https://user-images.githubusercontent.com/72565820/120827267-a65b4200-c531-11eb-9fcd-8027e9e6956b.png" width="30px"></a> 
